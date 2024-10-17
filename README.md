@@ -5,7 +5,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 ## Clone the repository
 
 ```bash
-git clone --recurse-submodules https://github.com/kn-integra/robocomp.app
+git clone --recurse-submodules https://github.com/KJstingray/Prototyp-app
 ```
 
 ## Setup
