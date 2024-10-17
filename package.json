@@ -1,8 +1,9 @@
 {
-  "name": "nuxt3-boilerplate",
-  "author": "Iwo Strzeboński <iwo.strzebonski@gmail.com>",
+  "name": "prototyp-app",
+  "author": "Iwo \"Octoturge\" Strzeboński <iwo.strzebonski@gmail.com>",
+  "repository": "https://github.com/KJstingray/Prototyp-app.git",
   "version": "2.0.0",
-  "license": "WTFPL",
+  "license": "MIT",
   "scripts": {
     "dev": "nuxt dev --host",
     "preview": "nuxt preview",
