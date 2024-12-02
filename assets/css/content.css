@@ -11,7 +11,7 @@
 }
 
 .markdown-content main > div {
-  @apply flex flex-col;
+  @apply flex flex-col justify-center items-center;
 }
 
 .markdown-content h2 {

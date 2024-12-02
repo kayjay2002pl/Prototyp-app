@@ -49,9 +49,6 @@ onBeforeMount(() => {
 
 <template>
   <div>
-    <SpeedInsights />
-    <VitePwaManifest />
-
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>

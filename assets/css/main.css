@@ -46,3 +46,10 @@ a {
 .index-page.page-leave-active {
   transition: all 0.4s;
 }
+
+.chairs {
+  background-color:  #FAB302;
+  background-image: url("public/img/tekstura1.png");
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
